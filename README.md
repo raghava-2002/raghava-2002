@@ -27,5 +27,5 @@ Welcome to my GitHub profile! I’m an MSc student specializing in **Networked S
 
 - **Stockholm, Sweden**
 - **[LinkedIN](https://www.linkedin.com/in/rathan-appana/)**
-- **[Mail](mailto:rathanappana@gmail.com)**
+- **[Email me](mailto:rathanappana@gmail.com)**
 
