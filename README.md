@@ -1,4 +1,4 @@
-# Hi, I'm Rathan Appana
+# Hi, I'm [Rathan Appana](https://github.com/raghava-2002)
 
 Welcome to my GitHub profile! I’m an MSc student specializing in **Networked System Security** at **KTH Royal Institute of Technology**, passionate about **wireless security**, **network security**, and **privacy-enhancing technologies**. I enjoy tackling complex security and performance challenges, especially within Linux-based and networked environments.
 
@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I’m an MSc student specializing in **Networked S
 
 ## Get in Touch
 
--**Stockholm, Sweden**
--**[LinkedIN](https://www.linkedin.com/in/rathan-appana/)
+- **Stockholm, Sweden**
+- **[LinkedIN](https://www.linkedin.com/in/rathan-appana/)**
+- **[Mail](mailto:rathanappana@gmail.com)**
 
